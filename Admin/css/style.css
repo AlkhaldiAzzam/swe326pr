@@ -1,0 +1,101 @@
+body {
+    width: 100%;
+}
+#logo {
+    line-height: 1.0;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 10%;
+}
+
+#input {
+    margin: 5px;
+}
+
+#centered {
+    text-align: center;
+    align-items: center;
+}
+
+#grey {
+    color: #6D747C;
+}
+
+#signInForm {
+    margin-right: 50px;
+}
+
+nav {
+    padding-bottom: 100px;
+}
+
+.w3-sidebar w3-bar-block w3-light-grey w3-card {
+    margin-top: 100px;
+}
+
+#statContainer {
+    text-align: center;
+    width: auto;
+    margin-top: 100px;
+    
+}
+
+#chart {
+    width: 45%;
+    margin: 15px;
+}
+
+.top-right-chart {
+    position: relative;
+    left: 770px;
+    top: -345px;
+
+    width: 350px;
+    height: 400px;
+    
+}
+
+.down-left-chart {
+    position: relative;
+    left: 150px;
+    top: -250px;
+    width: 350px;
+    height: 400px;
+}
+
+.down-right-chart {
+    position: relative;
+    left: 770px;
+    top: -640px;
+    width: 350px;
+    height: 400px;
+}
+
+#moreRight {
+    margin-left: 50%;
+}
+#labelRight {
+    float: right;
+    margin-right: -20%;
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+p #absLeft {
+	position: absolute; 
+	bottom: -7px; 
+	left: 35px;
+}
+p #marginLeft {
+	margin-left: 130px;
+}
+#test {
+	font-size: 30px;
+}

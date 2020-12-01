@@ -1,0 +1,79 @@
+#logo {
+    line-height: 1.0;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 10%;
+}
+
+#input {
+    margin: 5px;
+}
+
+#centered {
+    text-align: center;
+    align-items: center;
+}
+
+#left {
+    margin-left: 50%;
+}
+
+#grey {
+    color: #6D747C;
+}
+
+#signInForm {
+    margin-right: 50px;
+}
+
+#right {
+    margin-left: 35%;
+    width: 300px;
+}
+
+
+#statContainer {
+    text-align: center;
+    width: auto;
+    margin-top: 100px;
+    
+}
+
+#chart {
+    width: 30%;
+    margin: 30px;
+}
+
+.top-right-chart {
+    position: relative;
+    left: 770px;
+    top: -345px;
+
+    width: 350px;
+    height: 400px;
+    
+}
+
+.down-left-chart {
+    position: relative;
+    left: 150px;
+    top: -250px;
+    width: 350px;
+    height: 400px;
+}
+
+.down-right-chart {
+    position: relative;
+    left: 770px;
+    top: -640px;
+    width: 350px;
+    height: 400px;
+}
+
+#moreRight {
+    margin-left: 50%;
+}
+#labelRight {
+    float: right;
+    margin-right: -20%;
+}

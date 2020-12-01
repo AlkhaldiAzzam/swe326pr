@@ -1,0 +1,99 @@
+body {
+    width: 100%;
+}
+#logo {
+    line-height: 1.0;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 10%;
+}
+
+#input {
+    margin: 5px;
+}
+
+#centered {
+    text-align: center;
+    align-items: center;
+}
+
+#grey {
+    color: #6D747C;
+}
+
+#signInForm {
+    margin-right: 50px;
+}
+
+nav {
+    padding-bottom: 100px;
+}
+
+.w3-sidebar w3-bar-block w3-light-grey w3-card {
+    margin-top: 100px;
+}
+
+#statContainer {
+    text-align: center;
+    width: auto;
+    margin-top: 100px;
+    
+}
+
+#tableContainer {
+    text-align: left;
+    width: auto;
+    margin-top: 50px;
+    
+}
+
+.divider{
+    width:10px;
+    height:auto;
+    display:inline-block;
+}
+
+.top-left-chart {
+     position: relative;
+    left: 150px;
+    top: 50px;
+    
+    width: 350px;
+    height: 400px;
+}
+
+.top-right-chart {
+    position: relative;
+    left: 770px;
+    top: -345px;
+
+    width: 350px;
+    height: 400px;
+    
+}
+
+.down-left-chart {
+    position: relative;
+    left: 150px;
+    top: -250px;
+    width: 350px;
+    height: 400px;
+}
+
+.down-right-chart {
+    position: relative;
+    left: 770px;
+    top: -640px;
+    width: 350px;
+    height: 400px;
+}
+
+.search-container{
+	margin-left: 15%;
+	margin-top: 50px;
+}
+
+.widthy{
+	width: 100px;
+}
+
